@@ -15,7 +15,7 @@ Currently finishing an M.S. in Computational Analysis and Public Policy at the U
 | Project | Stack | What it does |
 |---|---|---|
 | [NYC Property Tax Assessment](https://github.com/Rodrigofch7/nyc_property_taxes_local) | Python · LightGBM · Parquet | Classifies 1.1M NYC properties as over/under/fairly valued. 87.6% accuracy vs 57% baseline. |
-| Data Centers & Housing Costs | R · Shiny · Spatial Econometrics | Hedonic price analysis of data center proximity effects on Chicago housing markets. |
+| [Data Centers & Housing Costs](https://github.com/Rodrigofch7/data-centers-urban-effects) | R · Shiny · Spatial Econometrics | Hedonic price analysis of data center proximity effects on Chicago housing markets. |
 
 ## background
 
@@ -23,5 +23,5 @@ Currently finishing an M.S. in Computational Analysis and Public Policy at the U
 
 **Languages:** Portuguese (native) · English (fluent) · Spanish (conversational)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-publications-lightgrey?style=flat&logo=google-scholar)](YOUR_SCHOLAR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rodrigofrancac/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-publications-lightgrey?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=6D65dqUAAAAJ&hl=pt-BR)
