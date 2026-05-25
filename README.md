@@ -2,7 +2,7 @@
 
 I work at the intersection of causal inference and machine learning — a combination that's rarer than it sounds. Most data scientists don't know much econometrics. Most economists don't build pipelines. I do both.
 
-Currently finishing an M.S. in Computational Analysis and Public Policy at the University of Chicago. Research intern at the World Bank's DIME division (Summer 2026). Previously research assistant at the Mansueto Institute for Urban Innovation.
+Currently a graduate student at M.S. in Computational Analysis and Public Policy at the University of Chicago. Research intern at the World Bank's DIME division (Summer 2026). Previously research assistant at the Mansueto Institute for Urban Innovation.
 
 ## what I work on
 
