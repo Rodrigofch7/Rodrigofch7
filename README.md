@@ -1,8 +1,8 @@
-# Rodrigo França 
+# Rodrigo França
 
-I work at the intersection of causal inference and machine learning — a combination that's rarer than it sounds. Most data scientists don't know much econometrics. Most economists don't build pipelines. I do both.
+Graduate student in Computational Analysis and Public Policy at the University of Chicago, where I try to bring together the rigor of econometrics and the tools of modern data science. I'm drawn to questions where getting the causal story right actually matters — urban policy, public health, crime, housing.
 
-Currently a graduate student at M.S. in Computational Analysis and Public Policy at the University of Chicago. Research intern at the World Bank's DIME division (Summer 2026). Previously research assistant at the Mansueto Institute for Urban Innovation.
+Incoming research intern at the World Bank's DIME division (Summer 2026). Previously research assistant at the Mansueto Institute for Urban Innovation.
 
 ## what I work on
 
