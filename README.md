@@ -1,4 +1,4 @@
-# Rodrigo França Chaves
+# Rodrigo França 
 
 I work at the intersection of causal inference and machine learning — a combination that's rarer than it sounds. Most data scientists don't know much econometrics. Most economists don't build pipelines. I do both.
 
