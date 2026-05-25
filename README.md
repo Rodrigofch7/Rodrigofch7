@@ -14,9 +14,9 @@ Incoming research intern at the World Bank's DIME division (Summer 2026). Previo
 
 | Project | Stack | What it does |
 |---|---|---|
-| [NYC Property Tax Assessment](https://github.com/Rodrigofch7/nyc_property_taxes_local) | Python · LightGBM · Parquet | Classifies 1.1M NYC properties as over/under/fairly valued. 87.6% accuracy vs 57% baseline. |
-| [Data Centers & Housing Costs](https://github.com/Rodrigofch7/data-centers-urban-effects) | R · Shiny · Spatial Econometrics | Hedonic price analysis of data center proximity effects on Chicago housing markets. |
-| [Private Ownership of Water and Wastewater Systems: Assessing Health Impacts](https://www.sciencedirect.com/science/article/abs/pii/S0957178725000189?via%3Dihub) | Panel Data · DiD | Causal evaluation of water privatization effects on waterborne disease in Brazil (1998 to 2021). Published in *Utilities Policy*. |
+| [NYC Property Tax Assessment](https://github.com/Rodrigofch7/nyc_property_taxes_local) | Python · Machine Learning · ETL | Classifies 1.1M NYC properties as over/under/fairly valued. 87.6% accuracy vs 57% baseline. |
+| [Data Centers & Housing Costs](https://github.com/Rodrigofch7/data-centers-urban-effects) | Shiny · Spatial Data · Data Viz | Hedonic price analysis of data center proximity effects on Chicago housing markets. |
+| [Private Ownership of Water and Wastewater Systems: Assessing Health Impacts](https://www.sciencedirect.com/science/article/abs/pii/S0957178725000189?via%3Dihub) | Panel Data · DiD · Causal Inference | Causal evaluation of water privatization effects on waterborne disease in Brazil (1998 to 2021). Published in *Utilities Policy*. |
 
 ## background
 
