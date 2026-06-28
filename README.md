@@ -25,4 +25,6 @@ Research intern at the World Bank's DECDI division, formerly DIME (Summer 2026),
 
 **Languages:** Portuguese (native) · English (fluent) · Spanish (conversational)
 
-[Website](https://rodrigofch7.github.io) &nbsp;·&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rodrigofrancac/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-publications-lightgrey?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=6D65dqUAAAAJ&hl=pt-BR)
+[![Website](https://img.shields.io/badge/Website-rodrigofch7.github.io-B23A48?style=flat&logo=githubpages&logoColor=white)](https://rodrigofch7.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rodrigofrancac/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-publications-lightgrey?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=6D65dqUAAAAJ&hl=pt-BR)
