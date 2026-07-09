@@ -4,14 +4,14 @@ Graduate student in Computational Analysis and Public Policy at the University o
 
 Research intern at the World Bank's DECDI division, formerly DIME (Summer 2026), where I worked on satellite-imagery analysis of transit-driven urbanization in Dakar and anomaly detection in Mumbai property tax data. Currently research assistant at the Mansueto Institute for Urban Innovation and previously at the Insper Cities Lab in São Paulo, where I spent two years doing empirical urban and crime economics research, mentoring students, and teaching applied econometrics and GIS.
 
-## what I work on
+## What I work on
 
 - **Causal inference** — DiD, RDD, IV, staggered designs. Published in *Utilities Policy*; working paper on police body cameras in progress.
 - **Machine learning at scale** — end-to-end pipelines, feature engineering, gradient boosting. Built a classifier across 1.1M NYC properties.
 - **Spatial econometrics and urban economics** — housing markets, crime, public health, infrastructure.
 - **Policy and regulation** — zoning and land use, property tax assessment and valuation, housing and infrastructure policy. I read the rules alongside the data.
 
-## selected projects
+## Selected Projects
 
 | Project | Stack | What it does |
 |---|---|---|
