@@ -2,7 +2,7 @@
 
 Graduate student in Computational Analysis and Public Policy at the University of Chicago, where I try to bring together the rigor of econometrics and the tools of modern data science. I'm drawn to questions where getting the causal story right actually matters, and where the regulatory detail matters just as much as the data: urban policy, housing, property taxation, public health, and crime.
 
-Research intern at the World Bank's DECDI division, formerly DIME (Summer 2026), where I worked on satellite-imagery analysis of transit-driven urbanization in Dakar and anomaly detection in Mumbai property tax data. Previously research assistant at the Mansueto Institute for Urban Innovation and at the Insper Cities Lab in São Paulo, where I spent two years doing empirical urban and crime economics research, mentoring students, and teaching applied econometrics and GIS.
+Research intern at the World Bank's DECDI division, formerly DIME (Summer 2026), where I worked on satellite-imagery analysis of transit-driven urbanization in Dakar and anomaly detection in Mumbai property tax data. Currently research assistant at the Mansueto Institute for Urban Innovation and previously at the Insper Cities Lab in São Paulo, where I spent two years doing empirical urban and crime economics research, mentoring students, and teaching applied econometrics and GIS.
 
 ## what I work on
 
