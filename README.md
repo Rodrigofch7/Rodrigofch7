@@ -8,7 +8,7 @@ Research intern at the World Bank's DECDI division, formerly DIME (Jun to Aug 20
 
 ## What I work on
 
-- **Causal inference.** Difference-in-differences, regression discontinuity, IV, staggered designs. First-author publication in *Utilities Policy*, second-author working paper on police body cameras in progress.
+- **Causal inference.** Difference-in-differences, regression discontinuity, IV, staggered designs. First-author publication in *Utilities Policy*, second-author paper on police body cameras under review at *Cities*.
 - **Machine learning at scale.** End-to-end pipelines, feature engineering, gradient boosting. Built a horizontal-equity audit across 1.1M NYC properties.
 - **Remote sensing.** Difference-in-differences on 100 m satellite grids (Google Open Buildings, GHSL) to measure how transit reshapes the built environment.
 - **Archival data.** OCR and NLP pipelines that turn century-old registers into analysis-ready panels.
