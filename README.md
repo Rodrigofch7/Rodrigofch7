@@ -26,7 +26,7 @@ Research intern at the World Bank's DECDI division, formerly DIME (Jun to Aug 20
 
 🇧🇷 Brazilian &nbsp;·&nbsp; 📍 Chicago, IL &nbsp;·&nbsp; 🎓 UChicago MSCAPP
 
-**Languages:** Portuguese (native) · English (fluent) · Spanish (conversational)
+**Languages:** Portuguese (native) · English (fluent) · Spanish (professional working) · German (conversational)
 
 [![Website](https://img.shields.io/badge/Website-rodrigofch7.github.io-B23A48?style=flat&logo=githubpages&logoColor=white)](https://rodrigofch7.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rodrigofrancac/)
